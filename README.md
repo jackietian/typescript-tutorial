@@ -1,7 +1,7 @@
 # Typescript tutotrial
 
 # Install typescript compiler
-`npm i -g typescript`
+`npm i -g typescript`\
 `tsc -v`
 
 # Compile ts to js
